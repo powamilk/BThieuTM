@@ -1,0 +1,14 @@
+C:\Users\hieut\source\repos\HieuTM\HieuTM\bin\Debug\net6.0\HieuTM.exe
+C:\Users\hieut\source\repos\HieuTM\HieuTM\bin\Debug\net6.0\HieuTM.deps.json
+C:\Users\hieut\source\repos\HieuTM\HieuTM\bin\Debug\net6.0\HieuTM.runtimeconfig.json
+C:\Users\hieut\source\repos\HieuTM\HieuTM\bin\Debug\net6.0\HieuTM.dll
+C:\Users\hieut\source\repos\HieuTM\HieuTM\bin\Debug\net6.0\HieuTM.pdb
+C:\Users\hieut\source\repos\HieuTM\HieuTM\obj\Debug\net6.0\HieuTM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieut\source\repos\HieuTM\HieuTM\obj\Debug\net6.0\HieuTM.AssemblyInfoInputs.cache
+C:\Users\hieut\source\repos\HieuTM\HieuTM\obj\Debug\net6.0\HieuTM.AssemblyInfo.cs
+C:\Users\hieut\source\repos\HieuTM\HieuTM\obj\Debug\net6.0\HieuTM.csproj.CoreCompileInputs.cache
+C:\Users\hieut\source\repos\HieuTM\HieuTM\obj\Debug\net6.0\HieuTM.dll
+C:\Users\hieut\source\repos\HieuTM\HieuTM\obj\Debug\net6.0\refint\HieuTM.dll
+C:\Users\hieut\source\repos\HieuTM\HieuTM\obj\Debug\net6.0\HieuTM.pdb
+C:\Users\hieut\source\repos\HieuTM\HieuTM\obj\Debug\net6.0\HieuTM.genruntimeconfig.cache
+C:\Users\hieut\source\repos\HieuTM\HieuTM\obj\Debug\net6.0\ref\HieuTM.dll
